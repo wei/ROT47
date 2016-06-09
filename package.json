@@ -1,0 +1,21 @@
+{
+  "name": "rot47",
+  "version": "1.0.0",
+  "description": "Node Tool for ROT47 https://rot47.net ",
+  "main": "rot47.js",
+  "bin": {
+    "rot47": "./index.js"
+  },
+  "keywords": [
+    "rot47"
+  ],
+  "author": "Wei He <github@weispot.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddhhz/rot47.git"
+  }
+}
