@@ -19,9 +19,11 @@ rot47('abc')
 
 #### CLI Usage
 ```
-$ rot47 abc
+$ rot47 "abc"
 234
 
 $ rot47 file.txt
 ...
+
+$ gzip -d -c file.txt | base64 -D | rot47 > orig.txt
 ```
