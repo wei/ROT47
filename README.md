@@ -1,4 +1,6 @@
 # ROT47
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ddhhz/ROT47.svg)](https://greenkeeper.io/)
 Node Tool for ROT47 https://rot47.net
 
 
